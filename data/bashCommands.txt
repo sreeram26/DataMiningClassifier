@@ -1,0 +1,1 @@
+cat All_Classified.txt | tr " " "\n" | tr "//" "\n"|sort | uniq -c | awk '{ if ($1 > 700 ) print tolower($2) }' > stopWords.txt 
