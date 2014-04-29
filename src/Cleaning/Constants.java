@@ -7,4 +7,5 @@ public interface Constants {
 	String BAGOFWORDSOUTPUT = "data/bagOfWords.txt";
 	String TRAININGDATAOUTPUT = "data/training.txt";
 	String TESTDATAOUTPUT = "data/test.txt";
+	String TESTINPUT = "data/testData.txt";
 }

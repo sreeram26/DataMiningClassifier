@@ -1,15 +1,15 @@
-Training dimension -> (2448, 6622)
-Testing dimension ->  (612, 6622)
+Training dimension -> (2447, 5955)
+Testing dimension ->  (612, 5955)
 SVM
 Grid search results
-accuracy =0.694444444444
-Confusion matrix[[171  27   4]
- [ 22 184  48]
- [ 24  62  70]]
+accuracy =0.710784313725
+Confusion matrix[[182  19   4]
+ [ 22 176  54]
+ [ 29  49  77]]
 Class Label        +           -            =
-Precision [ 0.78801843  0.67399267  0.57377049]
-Recall    [ 0.84653465  0.72440945  0.44871795]
-F-Score   [ 0.81622912  0.69829222  0.50359712]
-Total Instances [202 254 156]
+Precision [ 0.78111588  0.72131148  0.57037037]
+Recall    [ 0.88780488  0.6984127   0.49677419]
+F-Score   [ 0.83105023  0.70967742  0.53103448]
+Total Instances [205 252 155]
 
 

@@ -61,7 +61,7 @@ public class DataCleanser {
 		FileWriter fstream = null;
 		try {
 			fstream = new FileWriter(fileName,true);
-			fstream.write("\n"+content);
+			fstream.write(content+"\n");
 			fstream.close();
 			
 		} catch (Exception e) {
@@ -195,8 +195,55 @@ public class DataCleanser {
 		
 		System.out.println("THe number of sentences picked are"+ wordsForSentences.size());
 		
+		bagOfWords.remove("+");
+		bagOfWords.remove("-");
+		bagOfWords.remove("=");
+		
 		LinkedHashMap<String, Integer> wList = new LinkedHashMap<String, Integer>(bagOfWords);
 		return wList;
+		
+	}
+	public static void setTestData(String filePath)
+	{
+		sentences = readFromFile(filePath);
+		
+		
+		for(String sentence : sentences)
+		{
+			LinkedHashMap<String,Integer > forSentence = new LinkedHashMap<String,Integer>();
+			String[] words = sentence.split("/|\\s");
+			for(String word : words)
+			{
+				word=word.trim();
+				word=word.toLowerCase();
+				if(word.contains("//") )
+				{
+					int pos = word.indexOf("//");
+					if(pos>1)
+						word=word.substring(0, pos);
+					else
+						continue;
+				}
+				if(stopWordsList.containsKey(word) || nlpTags.containsKey(word) || word.matches("\\d+(/|-)\\d+(/|-)\\d+") )
+				{
+					continue;
+				}
+				
+				if(forSentence.containsKey(word))
+				{
+					int value = forSentence.get(word);
+					value++;
+					forSentence.put(word, value);
+				}
+				else
+				{
+					forSentence.put(word, 1);
+				}
+				
+			}
+			wordsForSentences.add(forSentence);
+		}
+		
 		
 	}
 	
@@ -231,45 +278,54 @@ public class DataCleanser {
 			LinkedHashMap<String, Integer > newMap = new LinkedHashMap<String,Integer>(bagOfWords);
 			currLine++;
 			int type =-1; 
-			for (String key : map.keySet()) {
-				if(key.equalsIgnoreCase("+") || key.equalsIgnoreCase("-") || key.equalsIgnoreCase("*") || key.equalsIgnoreCase("="))
+			for (String key : newMap.keySet()) {
+				
+				if(map.containsKey(key))
 				{
-					if(key.equalsIgnoreCase("+"))
-						type=1;
-					if(key.equalsIgnoreCase("-"))
-						type=2;
-					if(key.equalsIgnoreCase("*"))
-						type=3;
-					if(key.equalsIgnoreCase("="))
-						type=4;
+					newMap.put(key,map.get(key));
 				}
 				else
 				{
-					if(map.get(key)==-1)
-						System.out.println("Error Here");
-					newMap.put(key, map.get(key));
+					newMap.put(key, 0);
 				}
+				
+			}
+			
+			// MAP : ORIGINAL SENTENCE - TRAINING / TEST 
+			// newMap : BAG OF WORDS 
+			
+
+			if(map.containsKey("+") || map.containsKey("1"))
+			{
+				type=1;
+			}
+			else if(map.containsKey("-") || map.containsKey("-1"))
+			{
+				type=2;
+			}
+			else if(map.containsKey("=") || map.containsKey("0"))
+			{
+				type=4;
 			}
 			
 			if(type==-1)
 				continue;
 			
-			if(type==-1)
-				System.out.println("Error Here");
 			newMap.put("Class",type);
 			int total=newMap.values().toString().length();
+			
 			if(currLine<=trainingEnd)
+			{
 				appendStringToFile(Constants.TRAININGDATAOUTPUT,newMap.values().toString().substring(1, total-1));
+			}
 			else
+			{
 				appendStringToFile(Constants.TESTDATAOUTPUT,newMap.values().toString().substring(1, total-1));
+			}
 		}
-		
-		
-		
-		
-				
-		
 	}
+	
+	
 	
 	public static void main(String args[])
 	{
@@ -278,8 +334,9 @@ public class DataCleanser {
 		
 		filesCleanUp();
 		writeDataToFile(Constants.BAGOFWORDSOUTPUT, new ArrayList<String>(Arrays.asList(getBagOfWords(Constants.DATAINPUT).keySet().toArray(new String[100] ))));
-		
+		setTestData(Constants.TESTINPUT);
 		System.out.println("STARTING vector generation");
+		System.out.println("The number of words are: "+bagOfWords.size() + bagOfWords.get("+") + bagOfWords.get("-") + bagOfWords.get("="));
 		createVector(0, 2448, 0, 19750);
 		
 	}

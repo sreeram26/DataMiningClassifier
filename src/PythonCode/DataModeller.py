@@ -14,6 +14,15 @@ from sklearn import svm, grid_search
 from sklearn.ensemble import RandomForestClassifier 
 from sklearn.cluster import KMeans
 
+
+def printPrecRecall(scores):
+    appendDataTofile("Class Label        +           -            =")
+    appendDataTofile("Precision ",scores[0]) 
+    appendDataTofile("Recall    ",scores[1])
+    appendDataTofile("F-Score   ",scores[2])
+    appendDataTofile("Total Instances ",scores[3])
+    appendDataTofile("\n") 
+
 def pearsonr(x, y):
   # Assume len(x) == len(y)
   n = len(x)
@@ -26,14 +35,7 @@ def pearsonr(x, y):
   den = pow((sum_x_sq - pow(sum_x, 2) / n) * (sum_y_sq - pow(sum_y, 2) / n), 0.5)
   if den == 0: return 0
   return num / den
-
-def printPrecRecall(scores):
-    appendDataTofile("Class Label        +           -            =")
-    appendDataTofile("Precision ",scores[0]) 
-    appendDataTofile("Recall    ",scores[1])
-    appendDataTofile("F-Score   ",scores[2])
-    appendDataTofile("Total Instances ",scores[3])
-    appendDataTofile("\n")    
+   
     
 def transform(xTrain,yTrain,xTest):
     pca = SparsePCA(n_components=2);
@@ -106,9 +108,25 @@ class DataModeller:
         #testData = np.genfromtxt(open(self.testData,'rb'),delimiter=',');       
         xTrain =  trainingData[:, :trainingData.shape[1]-1]
         yTrain = trainingData[:,trainingData.shape[1]-1]
+
+        """a=0;
+        for x in np.nditer(yTrain):
+          a+=1
+          if x not in  (1.0,2.0,3.0,4.0):
+            print "Exceptional tag", a ,x
+
+        print yTrain"""
                   
         xTest = testData[:, :testData.shape[1] -1]
         yTest = testData[:, testData.shape[1]-1]
+
+        """a=0;
+        for x in np.nditer(yTest):
+          a+=1
+          if x not in  (1.0,2.0,3.0,4.0):
+            print "Exceptional tag", a ,x
+
+        print yTest"""
         
         #evaluateCorrelationResults(xTrain, yTrain)
         
@@ -131,9 +149,9 @@ class DataModeller:
         
         #Logistic Regression classification
         #penalty="l1",C=0.5,intercept_scaling=2
-        """appendDataTofile("Log regression");
-        yPred = classify(lambda:linear_model.LogisticRegression(),
-                 xTrain,xTest,yTrain,yTest)"""
+        """appendDataTofile("Log regression");"""
+        #yPred = classify(lambda:linear_model.LogisticRegression(),
+        #         xTrain,xTest,yTrain,yTest)
                                   
         #SVM based classification
         appendDataTofile("SVM");
