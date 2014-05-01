@@ -1,15 +1,49 @@
-Training dimension -> (2447, 5955)
-Testing dimension ->  (612, 5955)
+
+Name : Sreeram Ramji  UIN : 669170944
+Name : Sophia Sandhu  UIN : 650059357
+
+
+We tried to do the same using two methods 
+
+1st method: USE Grid search SVM classifier using SCIKIT. Add opinion based lexicons words (Positive words and Negative words) into the bag of words 
+	    Stem the training and test data to fit into bag of words 
+	    Use the no of occurrences for each word in the vector.
+
+	
+
+Training dimension -> (2666, 6294)
+Testing dimension ->  (792, 6294)
 SVM
 Grid search results
-accuracy =0.710784313725
-Confusion matrix[[182  19   4]
- [ 22 176  54]
- [ 29  49  77]]
+Accuracy =0.464646464646
+Confusion matrix 
+[[ 75  40  18]
+ [  3  40   0]
+ [108 255 253]]
+
 Class Label        +           -            =
-Precision [ 0.78111588  0.72131148  0.57037037]
-Recall    [ 0.88780488  0.6984127   0.49677419]
-F-Score   [ 0.83105023  0.70967742  0.53103448]
-Total Instances [205 252 155]
+Precision [ 0.40322581  0.11940299  0.93357934]
+Recall    [ 0.56390977  0.93023256  0.41071429]
+F-Score   [ 0.47021944  0.21164021  0.57046223]
+Total Instances [133  43 616]
 
 
+2nd method: Use opinion based lexicon analysis to calculate the number of occurrences of +ve words and -ve words in a sentence .
+
+precision _ Positive 0.8333333134651184
+
+precision _ Negative 0.38461539149284363
+
+precision _ Neutral 0.7852522730827332
+
+Recall _ Positive 0.02923976629972458
+
+Recall _ Negative 1.0
+
+Recall _ Neutral 0.9853895902633667
+
+Accuracy 0.6380558609962463
+
+F-score _ Positive 0.05649717550224971
+
+F-score _ Negative 0.5555555627301887

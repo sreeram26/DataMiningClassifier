@@ -43,6 +43,28 @@ public class DataCleanser {
 			}
 		}
 	}
+	
+	public void addPosNegtoBagOfWords()
+	{
+		List <String>  posSentences = readFromFile("data/positive-words.txt");
+		List <String>  negSentences = readFromFile("data/negative-words.txt");
+		
+		for(String word : posSentences)
+		{
+			word=word.trim();
+			word=word.toLowerCase();
+			bagOfWords.put(word, 0);
+			
+		}
+		for(String word : negSentences)
+		{
+			word=word.trim();
+			word=word.toLowerCase();
+			bagOfWords.put(word, 0);
+			
+		}
+		
+	}
 	public static void filesCleanUp() {
 		FileWriter fstream = null;
 		try {
@@ -164,7 +186,7 @@ public class DataCleanser {
 					else
 						continue;
 				}
-				if(stopWordsList.containsKey(word) || nlpTags.containsKey(word) || word.matches("\\d+(/|-)\\d+(/|-)\\d+") || word.matches("\\.*\\$\\d+(\\.\\d+)?\\.*|\\.*\\d+(\\.\\d+)?\\.*|\\.*#\\d+(\\.\\d+)?\\.*"))
+				if( nlpTags.containsKey(word) || word.matches("\\d+(/|-)\\d+(/|-)\\d+") || word.matches("\\.*\\$\\d+(\\.\\d+)?\\.*|\\.*\\d+(\\.\\d+)?\\.*|\\.*#\\d+(\\.\\d+)?\\.*"))
 				{
 					continue;
 				}
@@ -198,6 +220,9 @@ public class DataCleanser {
 		bagOfWords.remove("+");
 		bagOfWords.remove("-");
 		bagOfWords.remove("=");
+		bagOfWords.remove("1");
+		bagOfWords.remove("-1");
+		bagOfWords.remove("0");
 		
 		LinkedHashMap<String, Integer> wList = new LinkedHashMap<String, Integer>(bagOfWords);
 		return wList;
@@ -212,8 +237,13 @@ public class DataCleanser {
 		{
 			LinkedHashMap<String,Integer > forSentence = new LinkedHashMap<String,Integer>();
 			String[] words = sentence.split("/|\\s");
+			int position =0;
+			int len =words.length;
 			for(String word : words)
 			{
+				position++;
+				if(position == len)
+					System.out.println("reach");
 				word=word.trim();
 				word=word.toLowerCase();
 				if(word.contains("//") )
@@ -224,9 +254,15 @@ public class DataCleanser {
 					else
 						continue;
 				}
-				if(stopWordsList.containsKey(word) || nlpTags.containsKey(word) || word.matches("\\d+(/|-)\\d+(/|-)\\d+") )
+				if( nlpTags.containsKey(word) || word.matches("\\d+(/|-)\\d+(/|-)\\d+") )
 				{
 					continue;
+				}
+				
+				if(word.equals("1")|word.equals("-1")|word.equals("0"))
+				{
+					if(position!=words.length)
+						continue;
 				}
 				
 				if(forSentence.containsKey(word))
@@ -294,18 +330,37 @@ public class DataCleanser {
 			// MAP : ORIGINAL SENTENCE - TRAINING / TEST 
 			// newMap : BAG OF WORDS 
 			
-
-			if(map.containsKey("+") || map.containsKey("1"))
+			if(currLine<=trainingEnd)
+			{
+			if(map.containsKey("+") )
 			{
 				type=1;
 			}
-			else if(map.containsKey("-") || map.containsKey("-1"))
+			else if(map.containsKey("-") )
 			{
 				type=2;
 			}
-			else if(map.containsKey("=") || map.containsKey("0"))
+			else if(map.containsKey("=") )
 			{
 				type=4;
+			}
+			
+			}
+			else
+			{
+			
+			if( map.containsKey("1"))
+			{
+				type=1;
+			}
+			else if( map.containsKey("-1"))
+			{
+				type=2;
+			}
+			else if(map.containsKey("0"))
+			{
+				type=4;
+			}
 			}
 			
 			if(type==-1)
@@ -334,10 +389,12 @@ public class DataCleanser {
 		
 		filesCleanUp();
 		writeDataToFile(Constants.BAGOFWORDSOUTPUT, new ArrayList<String>(Arrays.asList(getBagOfWords(Constants.DATAINPUT).keySet().toArray(new String[100] ))));
+		
+		int train = wordsForSentences.size();
 		setTestData(Constants.TESTINPUT);
 		System.out.println("STARTING vector generation");
 		System.out.println("The number of words are: "+bagOfWords.size() + bagOfWords.get("+") + bagOfWords.get("-") + bagOfWords.get("="));
-		createVector(0, 2448, 0, 19750);
+		createVector(0, train, 0, 19750);
 		
 	}
 

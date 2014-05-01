@@ -2445,4 +2445,223 @@
 = 1901//CD Carefree//NNP Liners/Liner/NNP (//( 22//CD ct.//JJ .//. 
 = 1902//CD $1//1/CD Carefree//NNP Product//NNP ,//, exp//NN .//. 
 = 1903//CD 3-31-11//JJ (//( Good//JJ Housekeeping//NNP Feb//NNP 10//CD )//SYM Free//NNP after//IN coupons/coupon/NNS !//. 
-= 1904//CD Pantene//NNP Trial//NN Size//NN Hair//NN Care//NNP Balance//NNP Bars/Bar/NNP Metromint//NNP Water//NNP ://: Bakery//Deli/NNP 8//CD piece//NN Fried//NNP ,//, BBQ//NNP Baked//JJ ,//, Chipotle//NNP Fried//NNP or//CC Rotisserie//NNP Baked//NNP Chicken//NNP Combo//NNP ,//, $5.99//CD In//IN Store//NNP Baked//JJ Italian//NNP Bread//NNP ,//, $0.99//CD Kroger//NNP American//NNP Cheese//NNP (//( Yellow//NNP ,//, White//NNP or//CC Hot//NNP Pepper//NNP )//SYM ,//, $3.99//CD lb//NN .//. 
+= 1904//CD Pantene//NNP Trial//NN Size//NN Hair//NN Care//NNP Balance//NNP Bars/Bar/NNP Metromint//NNP Water//NNP ://: Bakery//Deli/NNP 8//CD piece//NN Fried//NNP ,//, BBQ//NNP Baked//JJ ,//, Chipotle//NNP Fried//NNP or//CC Rotisserie//NNP Baked//NNP Chicken//NNP Combo//NNP ,//, $5.99//CD In//IN Store//NNP Baked//JJ Italian//NNP Bread//NNP ,//, $0.99//CD Kroger//NNP American//NNP Cheese//NNP (//( Yellow//NNP ,//, White//NNP or//CC Hot//NNP Pepper//NNP )//SYM ,//, $3.99//CD lb//NN .//.
+- 17413//CD Looking/Look/VBG for//IN a//DT grocery//NN or//CC a//DT location//NN I//PRP do//VBP not//RB cover//VB ,//, head//NN over//IN to//TO The//DT Frugal//NNP Map//NNP for//IN a//DT blog//NN listing//NN in//IN your//PRP$ area//NN !//. 
+- 17419//CD 50//CD each//DT wyb//NN two//CD PAGE//NNP 4-5//VBD no//DT deals/deal/NNS found/find/VBD PAGE//NNP 6//CD Glade//NNP Sense//NN &//CC Spray//NNP $5.99//CD -$4//JJ from//IN 5//9/CD SS/S/NNP Final//NNP Price//NNP ://: $1.99//CD Lysol//NNP Toilet//NNP Bowl//NNP Cleaner//NNP $2.99//CD ,//, B1G1/B/NNP free//JJ -$1//JJ printable//JJ HERE//NNP (//( IE//NNP )//SYM or//CC HERE//NNP (//( FF//NNP )//SYM ,//, use//NN two//CD Final//NNP Price//NNP ://: 2//$/CD .//. 
+- 17434//CD Oils/Oil/NNS are/be/VBP not//RB really//RB moisturizers//NNS .//. 
+- 17441//CD You//PRP want//VBP to//TO avoid//VB using/use/VBG a//DT cotton//NN or//CC polyester//NN scarf//NN since//IN they//PRP will//MD just//RB suck//VB the//DT moisture//NN out//IN of//IN your//PRP$ hair//NN .//. 
+- 17444//CD Quote//NN from//IN sxemama//NN ://: I//PRP hope//VBP my//PRP$ stores/store/NNS are/be/VBP not//RB out//RP of//IN razons//NNS .//. 
+- 17446//CD My//PRP$ total//NN was/be/VBD $4.86//CD last//JJ night//NN and//CC she//PRP would//MD not//RB adjust//VB my//PRP$ $4.99//CD ecb//NN down//RB so//IN I//PRP had/have/VBD to//TO quickly//RB add//VB $1//CD item//NN to//TO it//PRP ,//, which//WDT made/make/VBD my//PRP$ OOP//NNP $1.31.//CD Is/Be/VBZ there//EX any//DT items/item/NNS under//IN a//DT $1//CD I//PRP could//MD use//VB for//IN times/time/NNS like//IN these//DT ?//. 
+- 17470//CD But//CC ,//, on//IN the//DT days/day/NNS I//PRP do//VBP not//RB wash//VBP m//NN hair//NN ,//, I//PRP see//VBP it//PRP falling/fall/VBG and//CC going/go/VBG in//IN all//DT weird//JJ directions/direction/NNS .//. 
+- 17472//CD I//PRP am/be/VBP scared/scare/VBN to//TO spoil//VB it//PRP more//JJR .//. 
+- 17476//CD --//: )//SYM I//PRP developed/develop/VBD an//DT allergy//NN to//TO the//DT Fructis//NNP shampoo//NN and//CC it//PRP gave/give/VBD me//PRP really//RB tender//VBP zit//VBG like//IN bumps/bump/NNS on//IN my//PRP$ scalp//NN and//CC the//DT nape//NN of//IN my//PRP$ neck//NN where//WRB my//PRP$ wet//JJ hair//NN laid/lay/VBN .//. 
+- 17477//CD They//PRP looked/look/VBD and//CC felt/feel/VBD like//IN zits//NNS but//CC would//MD not//RB pop//VB .//. 
+- 17478//CD They//PRP we//PRP not//RB away//RB soon//RB after//IN I//PRP switched/switch/VBD shampoo//NN and//CC conditioner//NN .//. 
+- 17480//CD I//PRP made/make/VBD a//DT haul//NN today//NN at//IN CVS/CV/NNP and//CC then//RB my//PRP$ camera//NN would//MD not//RB work//VB !//. 
+- 17499//CD Am//NNP I//PRP the//DT only//RB one//CD who//WP feels/feel/VBZ like//IN this//DT week//NN is/be/VBZ dragging/drag/VBG ?//. 
+- 17509//CD OK//JJ ,//, I//PRP *needed*/need/VBG some//DT Diet//NNP coke//NN ,//, and//CC I//PRP missed/miss/VBD my//PRP$ Giant//NNP Food//NNP 's//POS sale//NN last//JJ week//NN ,//, which//WDT was/be/VBD 4//CD 12-packs/12-pack/NNS for//IN $10--which//NN seemed/seem/VBD just//RB dandy//JJ to//TO me//PRP .//. 
+- 17553//CD Haircolour//NNP can//MD sometimes//RB dry//JJ out//IN and//CC damage//VB your//PRP$ hair//NN ,//, that//IN plus//CC the//DT daily//JJ stresses/stress/NNS of//IN the//DT environment//NN can//MD wreak//VB havoc//NN on//IN even//RB the//DT healthiest/healthy/JJS strands/strand/NNS .//. 
+- 17569//CD My//PRP$ hair//NN is/be/VBZ about//IN 5//NN inches/inch/NNS on//IN my//PRP$ shoulder//NN when//WRB the//DT iron//NN (//( I//PRP do//VBP not//RB know//VB )//SYM as//IN I//PRP have//VBP always//RB worked/work/VBD in//IN my//PRP$ Garnier//NNP Fructis//NNP or//CC Pantene//NNP hair//NN shampoo//NN and//CC conditioner//NN ,//, and//CC do//VBP not//RB know//VB howto//NN wash//VB their//PRP$ hair//NN .//. 
+- 17570//CD Now//RB I//PRP know//VBP nothing//NN with//IN him//PRP !//. 
+- 17576//CD Originally//RB posted/post/VBD by//IN Alotofstrands//NNS So//RB ,//, I//PRP guess//VBP ,//, I//PRP am/be/VBP the//DT 1st//NNP Guinea//NNP Pig//NNP !//. 
+- 17595//CD I//PRP am/be/VBP really//RB sad//JJ that//IN it//PRP is/be/VBZ the//DT end//NN of//IN March//NNP already//RB .//. 
+- 17634//CD They//PRP are/be/VBP out//IN already//RB .//. 
+- 17851//CD It//PRP may//MD be//VB too//RB much//JJ protein//NN ,//, which//WDT again//RB leads/lead/VBZ to//TO dryness//NN and//CC breakage//NN .//. 
+- 17872//CD its//PRP$ hard//JJ to//TO say//VB how//WRB much//JJ (//( depends/depend/VBZ on//IN how//WRB thick//JJ &//CC how//WRB much//JJ hair//NN they//PRP have//VBP )//SYM because//IN it//PRP can//MD get//VB extremely//RB greasy//JJ .//. 
+- 17885//CD Oh//UH !//. 
+- 17886//CD And//CC when//WRB I//PRP straighten//VB my//PRP$ hair//NN ,//, I//PRP use//VBP whats//NNS called/call/VBD Hot//NNP Six//CD Oil//NNP .//. 
+- 17887//CD USE//NNP IT//PRP SPARINGLY//NNP though//IN .//. 
+- 17888//CD Its//PRP$ really//RB greasy//JJ .//. 
+- 17889//CD If//IN you//PRP dont//VBP ,//, it//PRP will//MD just//RB be//VB stringy//JJ and//CC not//RB lay/lie/VBD soft//JJ .//. 
+- 17893//CD shame//NN i//NN have//VBP no//DT hair//NN .//. 
+- 17894//CD TITLETITLE//NNP H//NNP ://: Exp//NNP soon//RB W//NNP ://: Stamps/Stamp/NNP ,//, huggies//NNS codes/code/NNS 
+- 17932//CD TITLETITLE//NNP My//PRP$ Hair//NN Grew/Grow/VBD 4//CD Inches/Inch/NNP In//IN less//JJR than//IN 2//CD months/month/NNS 
+- 17970//CD Is/Be/VBZ that//IN okay//JJ to//TO use//VB if//IN I//PRP want//VBP to//TO go//VB no-poo//JJ ?//. 
+- 17977//CD I//PRP almost//RB did/do/VBD not//RB want//VBP to//TO get//VB them//PRP out//IN as//IN they//PRP looked/look/VBN so//RB good//JJ in//IN there//RB !//. 
+- 17983//CD A//DT swivel//JJ cord//NN is/be/VBZ another//DT excellent//JJ feature//NN that//WDT ensures/ensure/VBZ freedom//NN of//IN movement//NN when//WRB the//DT straighteners/straightener/NNS are/be/VBP in//IN use//NN ,//, without//IN the//DT need//NN to//TO worry//VB about//IN the//IN cord//NN becoming/become/VBG tangled//JJ .//. 
+- 17988//CD The//DT chart//NN shows/show/VBZ for//IN creating/create/VBG curls/curl/NNS on//IN medium//NN thick//JJ hair//NN then//RB an//DT ideal//JJ temperature//NN would//MD be//VB 175//JJ degrees/degree/NNS Celsius//NNP .//. 
+- 17999//CD So//RB I//PRP have//VBP chosen/choose/VBN to//TO create//VB beachy//JJ waves/wave/NNS in//IN my//PRP$ hair//NN with//IN them//PRP instead//RB .//. 
+- 18005//CD This//DT creates/create/VBZ a//DT lovely//JJ beachy//JJ wave//NN to//TO the//DT hair//NN .//. 
+- 18051//CD 3//21/10/CD Silk//NNP Elements/Element/NNS Mega//JJ Cholesterol//NN Conditioning/Condition/VBG Treatment//NNP (//( 1//CD &//CC 2//10th/VBD a//DT bottle//NN )//SYM Aphogee//NNP Keratin//NNP 2//CD Minute//NNP Reconstructor//NNP Finished/Finish/VBN 2//17/10/CD aphogee//NN two//CD step//NN protein//NN treatment//NN Silicon//NNP Mix//NNP Finished/Finish/VBN Nexxus//NNP Humectress//NNP 5//NN oz//NN .//. 
+- 18052//CD (//( 3//5/CD )//SYM (//( New//NNP Formula//NN )//SYM Finished/Finish/VBN 3//19/10/CD Nexxus//NNP Humectress//NNP 16//CD oz//NN .//. 
+- 18053//CD (//( Old//NNP formula//NN )//SYM Nexxus//NNP Ensure//NNP Acidifying/Acidify/VBG 16//CD oz//NN .//. 
+- 18055//CD (//( It//PRP really//RB hates/hate/VBZ my//PRP$ hair//NN )//SYM Nexxus//NNP Emergencee//NNP 3.3//CD oz//NN CHI//NNP Infra//NNP Treatment//NNP Thermal//JJ Protective//JJ Treatment//NNP Leave//VB in//IN Giovanni//NNP Direct//JJ Leave//VB in//IN sold/sell/VBN !//. 
+- 18066//CD TITLETITLE//NNP pavkah//NN ://: argh//NN ,//, I//PRP *just*//VBP got/get/VBD why//WRB the//DT cow//NN ,//, 
+- 18068//CD I//PRP *just*//VBP got/get/VBD why//WRB the//DT cow//NN is/be/VBZ trying/try/VBG to//TO chew//VB on//IN the//DT chick&apos/chick-apos/NNS ;//: s//PRP hair//NN in//IN the//DT Garnier//NNP commercial//JJ ,//, 
+- 18077//CD TITLETITLE//NNP My//PRP$ hair//NN just//RB attacked/attack/VBD me//PRP ,//, 
+- 18085//CD --//: )//SYM MarisaDolce//NNP ://: First//RB ,//, stop//VB using/use/VBG Pantene//NNP .//. 
+- 18086//CD That//DT stuff//NN is/be/VBZ HORRIBLE//NNP for//IN your//PRP$ hair//NN .//. 
+- 18088//CD I//PRP do//VBP not//RB use//VBP curling/curl/VBG shampoo//NN at//IN all//DT ,//, I//PRP just//RB hydrating/hydrate/VBG shampoo//NN b//c/NN most//RBS curls/curl/NNS need//VBP more//JJR hydration//NN .//. 
+- 18099//CD I//PRP could//MD not//RB get//VB past//JJ the//DT smell//NN !//. 
+- 18147//CD Now//RB it//PRP STATES/STATE/NNS it//PRP is/be/VBZ for//IN the//DT Walgreens//NNP here//RB in//IN El//NNP Paso//NNP ,//, but//CC to//TO be//VB honest//JJ I//PRP am/be/VBP a//DT little//JJ skeptical//JJ .//. 
+- 18162//CD OR//CC ,//, they//PRP have//VBP bags/bag/NNS of//IN popcorn//NN 3//$1/CD that//WDT would//MD make//VB this//DT definitely//RB work//VBP .//. 
+- 18173//CD I//PRP just//RB wish//VBP that//IN He//PRP did/do/VBD not//RB trust//VBP me//PRP so//RB much//JJ .//. 
+- 18179//CD If//IN so//RB ,//, why//WRB or//CC why//WRB you//PRP do//VBP not//RB like//IN them//PRP ,//, 1//CD .//. 
+- 18192//CD Recently//RB I//PRP have//VBP switched/switch/VBD my//PRP$ conditioner//NN to//TO Dove//NN 's//POS Heat//NNP Therapy//NNP (//( I//PRP think//VBP that//IN 's//VBZ what//WP it//PRP is/be/VBZ called/call/VBN ,//, and//CC it//PRP is/be/VBZ for//IN hair//NN that//WDT is/be/VBZ blow//NN dried/dry/VBD everyday//JJ )//SYM .//. 
+- 18196//CD I//PRP keep//VBP hesitating/hesitate/VBG ,//, and//CC putting/put/VBG it//PRP off//IN ,//, because//IN I//PRP do//VBP not//RB want//VBP to//TO seem//VB like//IN a//DT copy//NN cat//NN .//. 
+- 18269//CD (//( this//DT post//NN was/be/VBD already//RB wayyy//VBP long//JJ and//CC so//IN I//PRP did/do/VBD not//RB go//VB into//IN ever//RB .//. 
+- 18292//CD Quote//NN from//IN Kalanchoe//NNP ://: Um//UH ,//, OK//JJ ,//, so//IN I//PRP am/be/VBP feeling/feel/VBG stupid//JJ .//. 
+- 18295//CD But//CC it//PRP never//RB gave/give/VBD me//PRP an//DT option//NN to//TO enter//VB my//PRP$ info//NN ?//. 
+- 18302//CD Hello//UH everyone//NN ,//, been/be/VBN too//RB tire//VBP lately//RB .//. 
+- 18314//CD I//PRP am/be/VBP so//RB boring//JJ looking//NN !//. 
+- 18337//CD ELDORA//NNP FALSE//NNP LASHES/LASH/NNP B127/B/NNP 13//CD .//. 
+- 18374//CD 50//1/CD Lysol//NNP Cleaner//NNP SS/S/NNP 4//25/CD -//: .//. 
+- 18375//CD 55//1/CD Lysol//NNP Bathroom//NNP Cleaner//NNP printable//JJ Kodak//NNP One-Time-Use//NNP PowerFlash//NNP Camera//NNP B1G1/B/NNP at//IN $10.99//CD w//in-ad/JJ coupon//NN Walgreens//NNP Batteries/Battery/NNP AA//AAA-4pk/NNP ,//, C//D/NNP 2pk//CD or//CC 9V//CD 1ct/ct/NNP B1G1/B/NNP at//IN $3.99//CD w//in-ad/JJ coupon//NN Collage//NNP Prints/Print/NNS 46//CD ,//, 57//CD or//CC 810//CD B1G1/B/NNP w//in-ad/JJ coupon//NN Filler//NNP Items/Item/NNS Walgreens//NNP Candy//NN (//( chocolate//NN varieties/variety/NNS not//RB included/include/VBD )//SYM 3-9.5//CD oz//NN 39//CD ea//NNP Walgreens//NNP Straws/Straw/NNP 75//CD pk//NN or//CC Cutlery//NNP 24//CD pk//NN 50//CD ea//NN w//in-ad/JJ coupon//NN Ravinia//NNP Knee//NN Highs/High/NNP 34//CD ea//NN w//in-ad/JJ coupon//NN 
+- 18376//CD TITLETITLE//NNP _gahbee//NN ://: My//PRP$ new//JJ vice//NN ://: Dove//NN heat//NN damage//NN ,//, 
+- 18378//CD TITLETITLE//NNP Hair//NN Loss//NN 
+- 18379//CD Hi//UH Stef//NNP ,//, I//PRP had/have/VBD clumps/clump/NNS of//IN hair//NN the//DT first//JJ three//CD to//TO four//CD months/month/NNS after//IN my//PRP$ dx//NN .//. 
+- 18382//CD I//PRP have//VBP naturally//RB baby//NN fine//JJ hair//NN but//CC it//PRP was/be/VBD quite//RB thick//JJ just//RB before//IN I//PRP got/get/VBD sick//JJ .//. 
+- 18383//CD I//PRP used/use/VBD a//DT good//JJ shampoo//NN with//IN BIOTIN//NNP in//IN it//PRP and//CC a//DT reparitive//JJ or//CC restorative//JJ conditioner//NN and//CC still//RB do//VBP .//. 
+- 18385//CD "//" fine//JJ "//" hair//NN has/have/VBZ that//DT problem//NN .//. 
+- 18423//CD TITLETITLE//NNP Sticky//NNP ///SYM Oily//RB ///SYM Greasy//JJ scalp//NN ?//. ,//, ?//. 
+- 18424//CD I//PRP just//RB started/start/VBD getting/get/VBG sticky//JJ hair//NN too//RB !//. 
+- 18427//CD I//PRP do//VBP not//RB think//VBP it//PRP is/be/VBZ my//PRP$ shampoo//NN (//( Dove//NN )//SYM because//IN I//PRP have//VBP used/use/VBN it//PRP many//JJ times/time/NNS in//IN the//DT past//JJ and//CC this//DT has/have/VBZ never//RB happened/happen/VBN to//TO me//PRP before//IN .//. 
+- 18432//CD So//RB all//DT my//PRP$ hair//NN is/be/VBZ basically//RB piled/pile/VBN on//IN the//DT top//NN of//IN my//PRP$ head//NN in//IN the//DT towel//NN .//. 
+- 18436//CD I//PRP have//VBP done/do/VBN this//DT for//IN 3//CD days/day/NNS and//CC so//RB far//RB it//PRP is/be/VBZ not//RB helping/help/VBG .//. 
+- 18438//CD Or//CC scalp//NN .//. 
+- 18440//CD it//PRP is/be/VBZ just//RB my//PRP$ hair//NN in//IN that//DT one//CD spot//NN is/be/VBZ always//RB sticky//JJ and//CC LOOKS/LOOK/NNP greasy//JJ .//. 
+- 18443//CD I//PRP refuse//VBP to//TO believe//VB it//PRP is/be/VBZ caused/cause/VBN by//IN a//DT product//NN because//IN we//PRP are/be/VBP all//DT using/use/VBG different//JJ products/product/NNS .//. 
+- 18444//CD I//PRP do//VBP not//RB want//VBP a//DT temporary//JJ fix//NN although//IN I//PRP am/be/VBP going/go/VBG to//TO have//VB to//TO try//VB the//DT vinegar//NN thing//NN now//RB ,//, but//CC I//PRP really//RB want//VBP to//TO know//VB what//WP is/be/VBZ causing/cause/VBG this//DT .//. 
+- 18445//CD it//PRP is/be/VBZ kind//NN of//IN scaring/scare/VBG me//PRP now//RB that//IN I//PRP see//VBP it//PRP is/be/VBZ something//NN we//PRP are/be/VBP all//DT getting/get/VBG .//. 
+- 18448//CD My//PRP$ boyfriend//NN says/say/VBZ it//PRP might//MD be//VB caused/cause/VBN by//IN stress//NN .//. 
+- 18449//CD But//CC I//PRP have//VBP been/be/VBN STRESSEDto//NNP the//DT point//NN of//IN anxiety//NN attacks/attack/NNS and//CC football//NN sized/size/VBD knots/knot/NNS in//IN my//PRP$ stomach//NN ,//, and//CC never//RB any//DT sticky//JJ hair//NN .//. 
+- 18450//CD I//PRP do//VBP not//RB use//VBP styling/style/VBG products/product/NNS and//CC I//PRP use//VBP a//DT big//JJ tooth//NN comb//NN .//. 
+- 18451//CD not//RB a//DT brush//NN .//. 
+- 18455//CD Anyway//RB it//PRP is/be/VBZ annoying//JJ .//. 
+- 18456//CD TITLETITLE//NNP My//PRP$ hair//NN just//RB is/be/VBZ not//RB acting/act/VBG like//IN it//PRP used/use/VBD to//TO ,//, (//( Long//NNP rant//VBP )//SYM 
+- 18457//CD Quote//NN ://: Originally//RB Posted/Post/VBN by//IN CrimsonMamba//NNP Quote//NN ://: Originally//RB Posted/Post/VBN by//IN afrosheenqueen//VBN It//PRP just//RB sounds/sound/VBZ like//IN your//PRP$ hair//NN is/be/VBZ not//RB conditioned/condition/VBN .//. 
+- 18458//CD If//IN I//PRP were/be/VBD you//PRP I//PRP would//MD use//VB some//DT different//JJ conditioners/conditioner/NNS .//. 
+- 18461//CD Aubrey//NNP Organic//NNP products/product/NNS are/be/VBP heavy//JJ on//IN the//DT oils/oil/NNS and//CC light//NN on//IN conditioning//NN in//IN my//PRP$ experience//NN and//CC I//PRP need//VBP both//DT .//. 
+- 18472//CD I//PRP know//VBP it//PRP had/have/VBD to//TO be//VB frustrating//JJ to//TO be//VB using/use/VBG what//WP you//PRP thought/think/VBD would//MD be//VB very//JJ conditioning//NN based/base/VBN on//IN reviews/review/NNS and//CC not//RB understand//VB why//WRB it//PRP is/be/VBZ not//RB working/work/VBG .//. 
+- 18473//CD TITLETITLE//NNP Dove//NNP RR//NNP is/be/VBZ ROLLING//NN ,//, DEAD//NNP 
+- 18535//CD "//" I//PRP do//VBP not//RB know//VB what//WP to//TO say//VB about//IN this//DT ,//, except//IN ,//, I//PRP laughed/laugh/VBD a//DT lot//NN .//. 
+- 18558//CD She//PRP was/be/VBD using/use/VBG Pantene//NNP ,//, which//WDT made/make/VBD her//PRP$ hair//NN dry//JJ ,//, greasy//JJ ,//, and//CC unmanageable//JJ .//. 
+- 18559//CD She//PRP also//RB had/have/VBD a//DT very//RB difficult//JJ time//NN growing/grow/VBG her//PRP$ hair//NN out//IN past//JJ her//PRP$ shoulders/shoulder/NNS .//. 
+- 18567//CD Color//NNP and//CC bleach//NN remove//VB keratin//NN ,//, the//DT protein//NN found/find/VBD in//IN hair//NN ,//, nails/nail/NNS ,//, and//CC the//DT epidermis//NN (//( top//JJ layer//NN of//IN skin//NN )//SYM ,//, making/make/VBG the//DT structure//NN of//IN the//DT hair//NN less//RBR stable//JJ and//CC more//RBR susceptible//JJ to//TO breakage//NN .//. 
+- 18570//CD If//IN you//PRP have//VBP thinning/thin/VBG ,//, dry//JJ ,//, fine//JJ hair//NN ,//, I//PRP advise//VBP you//PRP not//RB to//TO use//VB this//DT product//NN .//. 
+- 18579//CD TITLETITLE//NNP frizzy//NN hair//NN 
+- 18582//CD It//PRP is/be/VBZ not//RB working/work/VBG .//. 
+- 18583//CD I//PRP drop//VBP her//PRP at//IN school//NN and//CC feel//VB sad//JJ that//IN I//PRP cannot//MD fix//VB the//DT hair//NN while//IN other//JJ girls/girl/NNS look//VBP really//RB pretty//RB with//IN pony//NN tails/tail/NNS .//. 
+- 18643//CD It//PRP goes/go/VBZ a//DT long//JJ way//NN to//TO keeping/keep/VBG the//DT hair//NN together//RB in//IN those//DT kinds/kind/NNS of//IN styles/style/NNS .//. 
+- 18652//CD I//PRP get//VBP so//RB tired/tire/VBN of//IN this//DT fine//NN ,//, thin//JJ hair//NN .//. 
+- 18696//CD Washing//NN more//RBR often//RB strips/strip/VBZ your//PRP$ hair//NN of//IN its//PRP$ natural//JJ oils/oil/NNS and//CC leaves/leave/VBZ it//PRP looking/look/VBG dry//JJ and//CC limp//JJ .//. 
+- 18701//CD Oppositely//RB ,//, conditioning/condition/VBG all//PDT the//DT way//NN to//TO your//PRP$ scalp//NN will//MD allow//VB greasy//JJ buildup//NN to//TO form//VB and//CC will//MD weigh//VB your//PRP$ hair//NN down//RB .//. 
+- 18713//CD Boy//NN ,//, was/be/VBD I//PRP wrong//JJ !//. 
+- 18717//CD Not//RB dry//JJ enough//RB when//WRB you//PRP unwrap//VBP ?//. 
+- 18749//CD I//PRP know//VBP -//: I//PRP am/be/VBP a//DT scaredy//JJ cat//NN too//RB .//. 
+- 18750//CD ^//NN guess//VBP I//PRP am/be/VBP really//RB NOT//NNP a//DT part//NN of//IN the//DT crew//NN .//. 
+- 18767//CD So//RB I//PRP was/be/VBD issued/issue/VBN a//DT friendly//JJ warning//NN .//. 
+- 18802//CD I//PRP kind//NN of//IN slacked/slack/VBN the//DT last//JJ part//NN of//IN 09//CD and//CC now//JJ need//NN to//TO fix//VB my//PRP$ "//" problem//NN "//" .//. 
+- 18880//CD they//PRP do//VBP not//RB support//VBP ubuntu//VBG .//. 
+- 18973//CD It//PRP was/be/VBD tangling/tangle/VBG and//CC matting//NN had/have/VBD me//PRP lookiing//VBG like//IN I//PRP mad//JJ lion//NN I//PRP called/call/VBD the//DT company//NN pissed/piss/VBD b//NN .//. 
+- 19005//CD Do//VBP not//RB really//RB feel//VB nexxus//JJ products/product/NNS anymore//RB .//. 
+- 19025//CD RT//NNP @clarentiacheel//NN ://: hair//NN fall//NN all//PDT the//DT time//NN ://: (//( (//( 
+- 19046//CD I//PRP saw/see/VBD her//PRP$ using/use/VBG that//IN icky//JJ moisturizer//NN Pantene//NNP makes/make/VBZ for//IN relaxed/relax/VBN hair//NN and//CC made/make/VBD a//DT face//NN like//IN this//DT I//PRP told/tell/VBD her//PRP$ I//PRP would//MD get//VB her//PRP$ something//NN better/good/JJR when//WRB I//PRP went/go/VBD to//TO walgreens//NNS .//. 
+- 19048//CD In//IN addition//NN she//PRP 's//VBZ also//RB got/get/VBD really//RB dry//JJ hair//NN because//IN she//PRP changes/change/VBZ the//DT color//NN frequently//RB .//. 
+- 19067//CD I//PRP am/be/VBP stil//VBG losing/lose/VBG hair//NN by//IN at//IN different//JJ times/time/NNS .//. 
+- 19069//CD I//PRP lose//VBP 5-10//JJ ,//, the//DT other//JJ day//NN there//RB were/be/VBD about//IN 4//CD hairs/hair/NNS in//IN the//DT drain//NN .//. 
+- 19070//CD BUT//NNP ,//, for//IN the//DT past//JJ year//NN I//PRP now//RB lose//VBP a//DT lot//NN during//IN comb//NN out//IN and//CC adding/add/VBG the//DT volume//NN products/product/NNS .//. 
+- 19083//CD I//PRP stopped/stop/VBD using/use/VBG Pantene//NNP shampoos/shampoo/VBZ many//JJ years/year/NNS ago//RB .//. 
+- 19084//CD I//PRP was/be/VBD losing/lose/VBG clumps/clump/NNS while//IN using/use/VBG Pantene//NNP !//. 
+- 19131//CD But//CC I//PRP am/be/VBP extremely//RB vain//JJ about//IN my//PRP$ hair//NN .//. 
+- 19139//CD Now//RB ,//, I//PRP feel//VBP like//IN a//DT cro-magnum//JJ doofus//NN .//. 
+- 19144//CD But//CC at//IN the//DT roots/root/NNS ,//, it//PRP is/be/VBZ greasy//JJ mess//NN .//. 
+- 19145//CD So//RB ,//, I//PRP have//VBP given/give/VBN up//IN on//IN Dove//NN So//RB ,//, any//DT suggestions/suggestion/NNS would//MD be//VB appreciated/appreciate/VBN .//. 
+- 19310//CD TITLETITLE//NNP Ron_neil/Ron/NNP ://: Damn//VB you//PRP Garnier//NNP with//IN your//PRP$ li//JJ ,//, 
+- 19311//CD Ron_neil/Ron/NNP ://: Damn//VB you//PRP Garnier//NNP with//IN your//PRP$ lies/lie/NNS !//. 
+- 19313//CD Fuck//VB you//PRP Garnier//NNP !//. 
+- 19314//CD FUCK//NNP YOU//PRP !//. 
+- 19317//CD TITLETITLE//NNP christoleen//VBD ://: I//PRP freakin//VBP hate//VBP Garnier//NNP fru//NN ,//, 
+- 19318//CD christoleen//VBN ://: I//PRP freakin//VBP hate//VBP Garnier//NNP Fructis//NNP e//NN shampoo//NN and//CC conditioner//NN &gt/-gt/NN ;//: =///NN 
+- 19332//CD I//PRP have//VBP an//DT uncle//NN ,//, a//DT close//NN friend//NN ,//, and//CC my//PRP$ BIL//NNP 's//POS roommate//NN who//WP were/be/VBD all//DT diagnosed/diagnose/VBN with//IN different//JJ cancers/cancer/NNS ,//, all//DT stage//VB IV//NNP (//( WTF//NNP )//SYM ,//, within//IN the//DT past//JJ few//JJ months/month/NNS .//. 
+- 19512//CD i//NN tried/try/VBD dove//NN and//CC it//PRP did/do/VBD not//RB really//RB work//VBP ,//, but//CC my//PRP$ friend//NN tried/try/VBD it//PRP and//CC it//PRP did/do/VBD ,//, so//IN I//PRP am/be/VBP not//RB sure//JJ about//IN it//PRP .//. 
+- 19561//CD But//CC I//PRP have//VBP been/be/VBN wondering/wonder/VBG if//IN I//PRP should//MD not//RB give//VB the//DT WEN//NNP a//DT try//NN ,//, was/be/VBD wondering/wonder/VBG if//IN anyone//NN here//RB has/have/VBZ tried/try/VBN it//PRP and//CC has/have/VBZ any//DT feedback//NN .//. 
+- 19580//CD I//PRP am/be/VBP not//RB sure//JJ if//IN I//PRP am/be/VBP figuring/figure/VBG right//NN .//. 
+- 19597//CD I//PRP have//VBP the//DT 3//CD minute//NN treatment//NN and//CC it//PRP is/be/VBZ terrible//JJ ,//, Gotta//VB check//NN those//DT ingredients/ingredient/NNS too//RB 
+- 19599//CD I//PRP am/be/VBP extremely//RB frustrated/frustrate/VBN at//IN the//DT moment//NN and//CC do//VBP not//RB know//VB what//WP to//TO do//VB .//. 
+- 19607//CD It//PRP has/have/VBZ never//RB been/be/VBN this//DT way//NN .//. 
+- 19616//CD I//PRP cannot//MD afford//VB to//TO braid//VB or//CC weave//VB at//IN this//DT point//NN either//RB .//. 
+- 19618//CD hump//NN day//NN all//DT ,//, the//DT word//NN of//IN the//DT day//NN is/be/VBZ arcanum//NN 1//CD )//SYM a//DT secret//JJ ;//: a//DT mystery//NN 2//CD )//SYM specialized//JJ or//CC mysterious//JJ knowledge//NN ,//, language//NN ,//, or//CC information//NN that//WDT is/be/VBZ not//RB accessible//JJ to//TO the//DT average//JJ person//NN my//PRP$ ny//JJ fashion//NN week//NN post//NN is/be/VBZ currently//RB in//IN the//DT works/work/NNS ,//, as//IN requested/request/VBN by//IN my//PRP$ boycompanion//NN (//( hehe//NN )//SYM .//. 
+- 19730//CD TITLETITLE//NNP What//WP do//VBP you//PRP people//NNS think//VBP is/be/VBZ the//DT worst/bad/JJS shampoo//NN and//CC conditioner//NN 
+- 19744//CD I//PRP am/be/VBP not//RB with//IN it//PRP and//CC did/do/VBD not//RB trust//VBP my//PRP$ luck//NN .//. 
+- 19745//CD I//PRP could//MD not//RB find//VB the//DT Breyer//NNP 's//POS bars/bar/NNS &//CC wishbone//NN spritz//NN had/have/VBD a//DT KD//NNP sign//NN for//IN $2.99.//CD Nothing//NN was/be/VBD on//IN the//DT other//JJ bottles/bottle/NNS though//IN .//. 
+- 19746//CD Degree//NN was/be/VBD on//IN KD//NNP but//CC I//PRP forget//VBP the//DT price//NN and//CC Dove//NN did/do/VBD not//RB have//VBP signs/sign/NNS .//. 
+- 19747//CD Secret//NNP had/have/VBD KD//NNP signs/sign/NNS but//CC it//PRP is/be/VBZ not//RB part//NN of//IN this//DT deal//NN .//. 
+- 19748//CD Next//JJ to//TO nothing//NN had/have/VBD sale//NN price//NN tags/tag/NNS .//. 
+- 19751//CD Some//DT shelf//NN prices/price/NNS Hellman//NNP 's//POS $4.59//CD Breyers//NNP $6.29//CD Klondike//NNP $3.29//CD Skippy//NNP $2.99//CD Wishbone//NNP $3.39//CD except//IN Spritz//NNP are/be/VBP KD//NNP $2.99//CD Dove//NN $4.19//CD no//DT sale//NN sign//NN Degree//NN KD//NNP missed/miss/VBD the//DT price//NN Vaseline//NNP $3.99//CD I//PRP honestly//RB did/do/VBD not//RB see//VB Dove//NN haircare//NN .//. 
+- 19752//CD Lots/Lot/NNS of//IN the//DT haircare//NN was/be/VBD empty//JJ for//IN most//RBS brands/brand/NNS ?//. 
+- 19776//CD My//PRP$ hairdresser//NN told/tell/VBD me//PRP that//IN while//IN some//DT people//NNS use//VBP Olive//NNP Oil//NNP ,//, it//PRP does/do/VBZ not//RB do//VBP anything//NN for//IN your//PRP$ hair//NN .//. 
+- 19777//CD It//PRP only//RB just//JJ coats/coat/NNS it//PRP but//CC long//JJ term//NN it//PRP does/do/VBZ not//RB repair//VBP it//PRP .//. 
+- 19786//CD Sorry//JJ you//PRP are/be/VBP having/have/VBG problems/problem/NNS .//. 
+- 19793//CD It//PRP is/be/VBZ a//DT HG//NNP for//IN me//PRP ,//, but//CC it//PRP is/be/VBZ a//DT disaster//NN for//IN others//NNS .//. 
+- 19800//CD When//WRB my//PRP$ hair//NN needs/need/VBZ a//DT low//JJ poo//NN ,//, it//PRP is/be/VBZ not//RB really//RB greasy//JJ .//. 
+- 19817//CD No//DT street//NN plowing/plow/VBG here//RB ,//, and//CC truly//RB there//EX is/be/VBZ not//RB that//IN much//JJ snow//NN .//. 
+- 19828//CD I//PRP do//VBP not//RB know//VB exactly//RB what//WP the//DT problem//NN was/be/VBD .//. 
+- 19841//CD We//PRP have//VBP a//DT lot//NN of//IN states/state/NNS in//IN the//DT US//PRP ,//, too//RB ,//, that//WDT do//VBP not//RB produce//VB cheese//NN !//. 
+- 19855//CD TITLETITLE//NNP What//WP leave-in//NN will//MD condition//VB but//CC not//RB dry//JJ hair//NN ?//. 
+- 19860//CD Are/Be/VBP cones/cone/NNS that//IN bad//JJ that//IN I//PRP should//MD really//RB stop//VB altogether//RB ?//. 
+- 19878//CD I//PRP had/have/VBD no//DT breakage//NN but//CC my//PRP$ ends/end/NNS kept/keep/VBD tangling/tangle/VBG to//TO the//DT point//NN I//PRP could//MD not//RB comb//VB through//IN it//PRP .//. 
+- 19880//CD I//PRP meant/mean/VBD tocut//NN it//PRP gradually//RB but//CC I//PRP was/be/VBD upset//VBN .//. 
+- 19919//CD Some//DT Walgreens//NNP stores/store/NNS will//MD not//RB accept//VB a//DT coupon//NN for//IN a//DT free//JJ after//IN RR//NNP item//NN .//. 
+- 19934//CD Never//RB again//RB pantene//VBP !//. 
+- 19935//CD TITLETITLE//NNP Free//NNP Sample//NN ://: Plackers//NNP Grind//NNP No//DT More//RBR 
+- 19956//CD He//PRP does/do/VBZ not//RB know//VB how//WRB to//TO get//VB information//NN on//IN the//DT courses/course/NNS ,//, do//VBP you//PRP ask//VBP at//IN your//PRP$ local//JJ surf//NN lifesaving//VBG club//NN ?//. 
+- 19976//CD I//PRP do//VBP not//RB use//VBP foundation//NN because//IN my//PRP$ skin//NN is/be/VBZ fair//JJ and//CC for//IN the//DT most//RBS part//VB it//PRP is/be/VBZ usually//RB clear//JJ .//. 
+- 19985//CD TITLETITLE//NNP I//PRP suppose//VBP any//DT deal//NN I//PRP post//VBP today//NN may//MD or//CC may//MD not//RB be//VB ,//, 
+- 20008//CD why//WRB do//VBP not//RB try//VB it//PRP ,//, you//PRP love//VBP it//PRP .//. 
+- 20015//CD 51//CD Use//VB WAG//NNP Q//NN Use//NN $1//CD MQ//NNP Starbucks//NNP Frappuccino//NNP Bottled//NNP Coffee//NNP Use//VB $1//CD MQ//NNP Starbucks//NNP Frappuccino//NNP Bottled//NNP Coffee//NNP Use//VB $4//CD RR//NNP (//( from//IN dove//NN shampoo//NN )//SYM OOP//NNP $2.99//CD Get//VB $3//CD RR//NNP 3//CD )//SYM Oral-B//NNP CrossAction//NNP Toothbrush//NNP $3x3=//CD $9//CD 2//CD )//SYM Nature//NNP 's//POS Bounty//NNP Vitamins/Vitamin/NNS and//CC Supplements/Supplement/VBZ no//DT more//RBR then//RB $2//CD B1G1/B/NNP Nature//NNP 's//POS Bounty//NNP Vitamins/Vitamin/NNS and//CC Supplements/Supplement/NNS Use//VB $2//CD MC//NNP Nature//NNP 's//POS Bounty//NNP Vitamins/Vitamin/NNS and//CC Supplements/Supplement/NNS Use//VB $2//CD MQ//NNP Oral-B//NNP CrossAction//NNP Toothbrush//NNP Use//VB $2//CD MQ//NNP Oral-B//NNP CrossAction//NNP Toothbrush//NNP Use//VB $2//CD MQ//NNP Oral-B//NNP CrossAction//NNP Toothbrush//NNP Use//VB $3//CD RR//NNP Get//VB $3//CD RR//NNP Kotex//NNP Maxi//NNP Pads/Pad/NNS 3.49//CD Filler//NNP 0.51//CD Use//VB $1//1/CD MQ//NNP Kotex//NNP Maxi//NNP Pads/Pad/NNS Use//VB $3//CD RR//NNP Get//VB $2.5//CD Schick//NNP Hydro//NNP Shave//NNP Gel//NNP 8.4//CD oz//NN -//: on//IN sale//NN $2.99//CD Use//VB $2.5//CD RR//NNP OOP//NNP $0.50//CD Get//VB $3//CD RR//NNP 3//CD )//SYM Oral-B//NNP CrossAction//NNP Toothbrush//NNP $3x3=//CD $9//CD Use//VB $2//CD MQ//NNP Use//VB $2//CD MQ//NNP Oral-B//NNP CrossAction//NNP Toothbrush//NNP Use//VB $2//CD MQ//NNP Use//VB $2//CD MQ//NNP Oral-B//NNP CrossAction//NNP Toothbrush//NNP Use//VB $2//CD MQ//NNP Use//VB $2//CD MQ//NNP Oral-B//NNP CrossAction//NNP Toothbrush//NNP Use//VB $3//CD RR//NNP Get//VB $3//CD RR//NNP Kotex//NNP Maxi//NNP Pads/Pad/NNS 3.49//CD Filler//NNP 0.51//CD Use//VB $1//1/CD MQ//NNP Kotex//NNP Maxi//NNP Pads/Pad/NNS Use//VB $3//CD RR//NNP Get//VB $2.5//CD If//IN you//PRP do//VBP not//RB have//VBP any//DT RR//NNP to//TO use//VB then//RB start//VB then//RB take//VB out//RP the//DT red//JJ items/item/NNS .//. 
+- 20021//CD Now//RB that//IN I//PRP cannot//MD find//VB my//PRP$ HG//NNP product//NN I//PRP have//VBP tried/try/VBD the//DT Giovanni//NNP line//NN ,//, the//DT conditoners//NNS from//IN Trader//NNP Joes//NNS and//CC the//DT Garnier//NNP conditioner//NN that//IN 's//VBZ cone//NN free//JJ .//. 
+- 20022//CD (//( I//PRP cannot//MD remember//VB which//WDT one//CD at//IN the//DT moment//NN )//SYM .//. 
+- 20023//CD So//RB far//JJ none//NN of//IN them//PRP are/be/VBP working/work/VBG for//IN me//PRP .//. 
+- 20024//CD My//PRP$ hair//NN is/be/VBZ still//RB tangling/tangle/VBG horribly//RB ,//, and//CC I//PRP have//VBP been/be/VBN getting/get/VBG no//DT curl//VB definition//NN .//. 
+- 20030//CD I//PRP wish//VBP I//PRP knew/know/VBD they//PRP were/be/VBD discontinuing/discontinue/VBG it//PRP !//. 
+- 20034//CD too//RB bad//JJ it//PRP smells/smell/VBZ like//IN shit//NN -_-/-_/JJ 
+- 20046//CD B1G1/B/NNP items/item/NNS ring//VBP up//IN at//IN half//NN price//NN ,//, you//PRP do//VBP not//RB have//VBP to//TO purchase//VB both//DT .//. 
+- 20095//CD But//CC now//RB it//PRP is/be/VBZ getting/get/VBG longer//RB and//CC harder/hard/JJR to//TO keep//VB frizz//NN free//JJ .//. 
+- 20120//CD SincereBeaute//NNP ://: Lesson//NN learned/learn/VBD ://: my//PRP$ hair//NN does/do/VBZ not//RB like//IN Garnier//NNP Fructis//NNP shampoo//NN #naturalhair//NN 
+- 20122//CD I//PRP dyed/dye/VBN my//PRP$ hair//NN with//IN Loreal//NNP Color//NNP Expertise//NNP four//CD days/day/NNS ago//RB and//CC it//PRP did/do/VBD not//RB take//VB to//TO my//PRP$ hair//NN .//. 
+- 20140//CD My//PRP$ guess//VBP is/be/VBZ that//IN an//DT in-ad//JJ coupon//NN will//MD be//VB like//IN any//DT other//JJ coupon//NN and//CC not//RB affect//VB whether//IN you//PRP get//VBP a//DT wellness//NN discount//NN ,//, but//CC I//PRP have//VBP not//RB noticed/notice/VBD .//. 
+- 20163//CD but//CC too//RB bad//JJ it&apos/it-apos/NNS ;//: s//PRP so//RB expensive//JJ .//. 
+- 20166//CD TITLETITLE//NNP My//PRP$ hair//NN stinks/stink/VBZ 
+- 20168//CD I//PRP cannot//MD wait//VB to//TO wash//VB this//DT stuff//NN out//IN of//IN my//PRP$ hair//NN !//. 
+- 20191//CD This//DT definitely//RB does/do/VBZ not//RB deserve//VBP a//DT thread//NN of//IN its//PRP$ own//JJ .//. 
+- 20195//CD CVS/CV/NNP Free//Cheap/GDA/NNP Week//NNP of//IN 5//23/CD Not//RB the//DT greatest/great/JJS week//NN ladies/lady/NNS and//CC gents/gent/NNS .//. 
+- 20204//CD I//PRP am/be/VBP not//RB that//IN particular//JJ with//IN my//PRP$ shampoo//NN and//CC conditioner//NN because//IN I//PRP do//VBP not//RB really//RB notice//VBP a//DT difference//NN in//IN what//WP brands/brand/VBZ I//PRP use//VBP .//. 
+- 20205//CD I//PRP will//MD say//VB that//IN I//PRP have//VBP tried/try/VBD a//DT shampoo//NN and//CC conditioner//NN from//IN Trader//NNP Joe//NNP 's//POS (//( cannot//MD remember//VB which//WDT kind//NN )//SYM and//CC it//PRP was/be/VBD awful//JJ for//IN the//DT same//JJ reasons/reason/NNS the//DT OP//NNP mentioned/mention/VBD .//. 
+- 20206//CD Also//RB ,//, the//DT conditioner//NN was/be/VBD a//DT joke//NN since//IN it//PRP left/leave/VBD my//PRP$ hair//NN a//DT tangled//JJ mess//NN .//. 
+- 20207//CD I//PRP have//VBP never//RB been/be/VBN to//TO a//DT Costco//NNP store//NN .//. 
+- 20213//CD (//( I//PRP forgot/forget/VBD the//DT names/name/NNS )//SYM The//DT Dove//NN is/be/VBZ just//RB horrid//JJ and//CC as//IN of//IN late//JJ I//PRP have//VBP been/be/VBN looking/look/VBG for//IN a//DT shampoo//NN that//WDT has/have/VBZ less//JJR or//CC no//DT sulfates//VBZ in//IN it//PRP and//CC is/be/VBZ a//DT decent//JJ price//NN (//( Im//NNP in//IN college//NN )//SYM Doo//NNP Gro//NNP Moisturizing/Moisturize/VBG Poo//NNP just//RB has/have/VBZ the//DT gentle//JJ sulfate//NN in//IN it//PRP and//CC a//DT lot//NN less//JJR cones/cone/NNS (//( cones/cone/NNS are/be/VBP bad//JJ right//NN ?//. 
+- 20222//CD )//SYM does/do/VBZ all//DT kinds/kind/NNS of//IN damage//NN to//TO your//PRP$ hair//NN .//. 
+- 20223//CD The//DT problem//NN is/be/VBZ it//PRP usually//RB takes/take/VBZ 5-10//JJ minutes/minute/NNS to//TO do//VB a//DT deep//JJ conditioner//NN and//CC when//WRB you//PRP are/be/VBP done/do/VBN you//PRP have//VBP flat//JJ limp//JJ hair//NN for//IN several//JJ days/day/NNS .//. 
+- 20226//CD But//CC here//RB 's//VBZ the//DT really//RB good//JJ part-it//JJ works/work/NNS it//PRP is/be/VBZ magic//NN in//IN only//RB one//CD minute//NN !//. 
+- 20230//CD Sorry//JJ I//PRP just//RB could//MD not//RB get//VB over//IN that//DT part//NN .//. 
+- 20278//CD I//PRP guess//VBP I//PRP have//VBP been/be/VBN way//NN misinterpreting/misinterpret/VBG the//DT rules/rule/NNS for//IN when//WRB an//DT RR//NNP will//MD roll//VB .//. 
+- 20289//CD jaimelondonboy//NN ://: With//IN some//DT tips/tip/NNS from//IN @frgaelle//NN I//PRP ended/end/VBD up//IN getting/get/VBG Fructis//NNP Surf//NNP Hair//NN .//. 
+- 20314//CD Put//VB a//DT blow//NN dryer//NN up//IN to//TO this//DT type//NN of//IN hair//NN ,//, and//CC it//PRP ends/end/VBZ up//IN looking/look/VBG even//RB puffier/puffy/JJR ,//, frizzier//RBR ,//, burnt/burn/VBN ,//, and//CC all//DT bent/bend/VBD out//IN of//IN shape//NN .//. 
+- 20370//CD It//PRP became/become/VBD clear//JJ that//IN the//DT latter//NN was/be/VBD just//RB too//RB greasy//JJ and//CC would//MD not//RB make//VB a//DT good//JJ daily//JJ shampoo//NN ,//, so//IN I//PRP dumped/dump/VBD it//PRP .//. 
+- 20371//CD Man//NN ,//, have//VBP I//PRP had/have/VBD it//PRP with//IN heavy//JJ ,//, slimy//JJ shampoos/shampoo/NNS lately//RB .//. 
+- 20375//CD The//DT detangling//VBG that//WDT followed/follow/VBD was/be/VBD something//NN of//IN a//DT struggle//NN .//. 
+- 20400//CD I//PRP roller//NN set//VBN then//RB flat//RB ironed/iron/VBN the//DT parts/part/NNS that//WDT did/do/VBD not//RB get//VB straight//JJ then//RB used/use/VBN the//DT spray//NN after//IN and//CC my//PRP$ hair//NN did/do/VBD not//RB revert//VB .//. 
+- 20401//CD TITLETITLE//NNP Humidity//NNP Stricken//NNP Hair//NN is/be/VBZ Not//RB Cute//NNP ,//, 
+- 20412//CD Super//NNP glad//JJ I//PRP spent/spend/VBD 45//CD minutes/minute/NNS making/make/VBG my//PRP$ hair//NN look//NN good//JJ so//RB Mr//NNP Heatmiser//NNP could//MD fuck//VB up//IN my//PRP$ day//NN .//. 
+- 20413//CD I//PRP appreciate//VBP it//PRP ,//, asshole//NN .//. 
+- 20425//CD If//IN you//PRP are/be/VBP doing/do/VBG a//DT pony-tail//JJ or//CC another//DT style//NN that//WDT requires/require/VBZ your//PRP$ hair//NN being/be/VBG pinned/pin/VBN up//IN -//: poofy//NN edges/edge/NNS can//MD totally//RB ruin//VB the//DT look//NN for//IN you//PRP .//. 
+- 20670//CD Took/Take/VBD about//IN 5//NN hours/hour/NNS to//TO dry//VB ,//, which//WDT was/be/VBD not//RB great//JJ .//. 
+- 20734//CD I//PRP really//RB do//VBP not//RB like//IN Pink//NNP Oil//NNP Moisturizer//NNP Hair//NN Lotion//NNP or//CC any//DT mousse//NN type//NN products/product/NNS because//IN they//PRP either//DT leave//VB my//PRP$ hair//NN too//RB greasy//JJ or//CC too//RB stiff//JJ !//. 
+- 21136//CD Friday//NNP ,//, bought/buy/VBD a//DT small//JJ bottle//NN of//IN the//DT Garnier//NNP Triple//NNP Nutrition//NNP conditioner//NN to//TO try//VB out//IN and//CC replenished/replenish/VBN my//PRP$ Mixed//NNP Chicks/Chick/NNP Leave-In//NNP last//JJ Tuesday//NNP ,//, yup//NN ,//, I//PRP gots/get/VBZ it//PRP BAD//NNP !//. 
+- 21188//CD (//( I//PRP twice//RB wasted/waste/VBD 1//CD hr//NN downloading/download/VBG zip//NN files/file/NNS nd//CC discovered/discover/VBN that//IN they//PRP were/be/VBD in//IN Spanish//JJ ://: xxx//NN (//( The//DT file//NN names/name/NNS are/be/VBP really//RB misleading//JJ )//SYM )//SYM Now//RB ,//, I//PRP will//MD not//RB have//VB any//DT problems/problem/NNS ,//, yaay//NN !//. 
+- 21196//CD Man//NN ,//, what//WP a//DT jungle//NN !//. 
+- 21200//CD WTH//NNP !//. 
+- 21203//CD The//DT fatty//JJ guard//NN came/come/VBD up//IN nd//CC spoiled/spoil/VBD the//DT fun//NN !//. 
+- 21205//CD My//PRP$ MP3/Mp/NNP had/have/VBD stopped/stop/VBN working/work/VBG during//IN the//DT bong//NN exam//NN ,//, so//RB rich//NN 's//POS one//CD made/make/VBN me//PRP feel//VBP a//DT wee//JJ bit//NN nostalgic//JJ abt//VBG my//PRP$ dysfunctional//JJ one//CD .//. 
+- 21206//CD Dysfunctional//NNP is/be/VBZ not//RB right//NN though//IN since//IN its//PRP$ pretty//JJ gud//NN as//JJ dead//NN as//IN I//PRP have//VBP neither//DT the//DT bucks/buck/NNS nor//CC any//DT idea//NN from//IN where//WRB to//TO get//VB it//PRP fixed/fix/VBD and//CC no//DT one//CD else//RB is/be/VBZ gonna//VBG get//VB it//PRP fixed/fix/VBD .//. 
+- 21214//CD Take//VB pity//NN on//IN my//PRP$ psyche//NN and//CC write//VB a//DT bit//NN more//RBR legibly//RB in//IN ur//NN blog//NN !//. 
+- 21221//CD There//EX are/be/VBP very//RB few//JJ shojo//NN mangas//NNS with//IN substantial//JJ romance//NN and//CC an//DT amazing//JJ plot//NN lyk//NN I//PRP like//VB to//TO read//VB .//. 
+- 21457//CD (//( Previously//RB ,//, I//PRP was/be/VBD using/use/VBG one//CD of//IN the//DT Herbal//NNP Essence//NNP ones/one/NNS ,//, and//CC now//RB I//PRP am/be/VBP trying/try/VBG Dove//NN 's//POS conditioner//NN ,//, with//IN less//RBR positive//JJ results/result/NNS )//SYM .//. 
+- 21475//CD Very//RB thin//JJ for//IN a//DT body//NN butter//NN .//. 
+- 21476//CD Smell//NNP was/be/VBD just//RB okay//JJ ,//, nothing//NN great//JJ .//. 
+- 21477//CD Would//MD not//RB purchase//VB .//. 
+- 21628//CD I//PRP once//RB tried/try/VBD a//DT Suave//NNP ,//, flyaways//NNS and//CC dry//JJ hair//NN ,//, even//RB though//IN it//PRP was/be/VBD suppose//VBP to//TO be//VB moisturizing/moisturize/VBG !//. 
+- 21678//CD STILL//NNP TANGLES/TANGLE/NNP TODAY//NNP .//. 
+- 21745//CD Sometimes//RB I//PRP use//VBP Garnier//NNP Fructis//NNP e//NN leave-in//JJ conditioning//NN cream//NN ,//, but//CC I//PRP do//VBP not//RB like//IN how//WRB it//PRP goes/go/VBZ on//IN the//DT hair//NN white//JJ and//CC I//PRP have//VBP to//TO wait//VB for//IN the//DT color//NN to//TO go//VB away//RB .//. 
+- 21749//CD I//PRP have//VBP sprayed/spray/VBN the//DT hair//NN with//IN infusium//NN 23//CD moisturologie//NN ,//, but//CC I//PRP found/find/VBD that//IN it//PRP makes/make/VBZ the//DT hair//NN sticky//JJ ,//, just//RB like//VB carefree//JJ curl//VB and//CC sta//NN soft//JJ fro//RB does/do/VBZ .//.  

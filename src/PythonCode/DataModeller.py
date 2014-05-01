@@ -79,7 +79,7 @@ def gridSearchCVforSVM(xTrain,xTest,yTrain,yTest):
      appendDataTofile("accuracy =" , resultLR.mean());
      pred =clf.predict(xTest);  
 
-     appendDataTofile("Confusion matrix",confusion_matrix(yTest, pred))             
+     appendDataTofile("Confusion matrix /n",confusion_matrix(yTest, pred))             
      precScores = precision_recall_fscore_support(yTest,pred);
      printPrecRecall(precScores)               
      return pred   
